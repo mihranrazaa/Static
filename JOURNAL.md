@@ -82,3 +82,26 @@ Images:
 <img width="874" height="710" alt="screenshot_20260430_021505" src="https://github.com/user-attachments/assets/02a96eb2-b414-41ad-9fa7-bedfb718026f" />
 
 **Total time spent: 5.5hours**
+
+# May 5 : Me back
+
+Alright i couldn't do anything for 2 days as i had to go to a family event, so i had leave the project midway, anyways i have started pcb routing and how i want the board to look like so i want it like small processor, and i made pin header all around, the issue is i don't think i can all the parts in that small box i might have to incerease the box area so everything can fit properly and get routed, i have already changed schem of 1 pin header 3 times becuase it wasn't fitting the box, i broke it in 3 pieces and made adjustements. I'll ask the doubt in the channel and see what they suggest... 
+
+anyways i also have live journal which i did before i went to the trip and then i'll add images...
+- Alright so i have started with the design, the changes here is i will be breaking one 1x10 header in 2 nope actually 3 parts, first two parts will be near type c (completing the chip look i want), and the remaining will at the same place just cenetred, that is the plan right now!!!!
+- alright i did 4-3-3 but then type won't fit how i won't it, i will change it to 6-2-2. which should still look how i want it to and would fit the port too, or i can move the port forward nah that won't look good, lol i'm just thinking of looks rn i don't if routing would be possibe in that space lol, i also have to know the good practices for routing a dev board... 
+- Me go got some work, i'll continue after i comeback, byrree.
+
+images
+
+<img width="874" height="710" alt="screenshot_20260430_021505" src="https://github.com/user-attachments/assets/daf340ac-c935-45f5-a5d8-6328737a51a9" />
+<img width="1119" height="796" alt="screenshot_20260430_085151" src="https://github.com/user-attachments/assets/e9c5a8e9-d2ef-4564-bd62-e96dd4850146" />
+<img width="464" height="491" alt="screenshot_20260430_085444" src="https://github.com/user-attachments/assets/0cc36049-0d62-437b-bd31-84003effdde8" />
+<img width="555" height="441" alt="screenshot_20260430_105549" src="https://github.com/user-attachments/assets/8b5d90c4-afc6-42f2-b090-cc7bc729e7e6" />
+<img width="814" height="633" alt="screenshot_20260505_140357" src="https://github.com/user-attachments/assets/08eec663-c90e-497d-9cbc-983d08a62164" />
+<img width="611" height="519" alt="screenshot_20260505_141309" src="https://github.com/user-attachments/assets/5e55f4eb-0fc9-499d-bc96-c65bfd4b9ce8" />
+<img width="659" height="492" alt="screenshot_20260505_141322" src="https://github.com/user-attachments/assets/cb364126-1fbb-46c5-87b2-9aaccd7f0cb7" />
+<img width="941" height="549" alt="screenshot_20260505_142358" src="https://github.com/user-attachments/assets/f4e0ff91-7a4e-4ce1-8538-9c312bbcce8a" />
+
+**Total time spent: 3.5hours**
+
