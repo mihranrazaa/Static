@@ -105,3 +105,38 @@ images
 
 **Total time spent: 3.5hours**
 
+# May 7 : Changing shape :/
+
+I wanted to make a square shape board, but now i have to change it to rectangle, bcz it is my first time using no modules, i'm getting confused.. I'll use pi pico type shape, and try to copy that. so it can be easier for me.. anyways here is my live journal.. during the session.. 
+
+
+Live Journal 
+- placed Crystal with it's resistor and caps, i'll first organize all the resis and caps with all the components, so i don't have to check everytime....
+- Again changing flash memory footprint....
+- Also almost completed positioning LDO, with it's caps...
+- Now FLash memory fp is more smaller yayyy
+- NOw me feeling sleepy i'll get some rest, then continueee. BYEEE
+- Me getting confused now :sob with the routing, this resistance is WHAT LEARNING ISSSSS!!!!!
+- Need a coke or something first......
+- THe issue is the caps and resistors thats all also i think my kicad might be glitching or having issues... 
+- Alright progress progresss, added more caps and resistors, though i'm currently just triyng to complete the rough positioning, so i get an idea on how i can improve it....
+- Placed more Caps and Resistors, i swear i'm hating rn doing this. I should eat something :sob 
+- completted routing Flash memoryyyy
+- Me changing the shape gng :/ have to, i can't this is my first no module project and it is better if i just copy pi pico type shape... SAD. i'll make another one after this... 
+- Alright changing... 
+- First have to change schematics, for pin headers
+- also lemme make a journal before that, so i make another journal with the new shape...
+
+Here are the images.. 
+
+<img width="659" height="492" alt="screenshot_20260505_141322" src="https://github.com/user-attachments/assets/309e7ec5-c052-4e5d-a408-c03566cd3cf1" />
+<img width="941" height="549" alt="screenshot_20260505_142358" src="https://github.com/user-attachments/assets/b804d410-96ee-467f-b25d-f408578092fc" />
+<img width="924" height="660" alt="screenshot_20260505_150800" src="https://github.com/user-attachments/assets/016e23ff-d6d1-441a-8e65-77cb2db68ecc" />
+<img width="779" height="451" alt="screenshot_20260505_150808" src="https://github.com/user-attachments/assets/4ce69d5e-f1be-412d-9e0c-e609a482c46c" />
+<img width="641" height="368" alt="screenshot_20260505_174101" src="https://github.com/user-attachments/assets/1031f90d-88bb-4a06-b1a8-fe9e8fc727c6" />
+<img width="1474" height="632" alt="screenshot_20260505_174106" src="https://github.com/user-attachments/assets/62abd82e-48bc-4e6a-9abc-8531b17db53d" />
+<img width="988" height="679" alt="screenshot_20260506_185420" src="https://github.com/user-attachments/assets/5b8ed226-24c1-4e8e-a016-4b6d9fe4f5d3" />
+<img width="1920" height="1080" alt="screenshot_20260506_200607" src="https://github.com/user-attachments/assets/62318d04-e513-4664-9268-6760c2e36fef" />
+<img width="1668" height="696" alt="screenshot_20260506_200738" src="https://github.com/user-attachments/assets/3eb2e924-3138-47c9-a261-80abd24cd9ff" />
+
+**Total time spent : 2.5hours** Probably more but this one is in so many chunks that it is better to just give the confident minimum..
