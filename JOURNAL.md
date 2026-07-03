@@ -147,9 +147,26 @@ It has been a really long break but i'm finally done, i had to go through some e
 
 i also made the production file and now i will complete the git page and prepare to submit!! byeee
 
+oh i didn't knew i didn't logged so many things here is are live log and total approx time.. 
+
+- alright changing the schems now..
+- so pi pico have 20 pins in each side so ii have to completely change the the header as mine are 10 and 1 break in multiple parts. 
+- ALright chat, 20 pin headers done i also need 3 pins too 
+- yay schematics done, also improved other components schems visibility..
+- Now i will delete the full pcb and reupdate it, me sad i spent so much time in that :aob
+- Back to the beginning...
+- Positioned the pin header. 
+- Routed type c port, routed 
+- Only few Caps left to be positioned, and also routed some components, also i found the issue becz of which i couldn't made the shape i wanted in, i might change the shape again :) lol. ts sounds like time inflation, but trust please :sob
+- Btw the issue was in schematics, specifically in type c port + in the header where i added multiple GND, 3.3 and vbus pins. WHich made it very confusing....
+- I still have 79 unrouted pins smh 
+- yay routed more pins!!!
+- Me stopping for sometime (btw this is the moment where i stopped and then continued recently...)
+
+
 Here are the images --
 
 <img width="456" height="694" alt="screenshot_20260703_175827" src="https://github.com/user-attachments/assets/7a86ca74-a207-4df7-b9f3-8cd17fbd7983" />
 <img width="981" height="180" alt="screenshot_20260703_175843" src="https://github.com/user-attachments/assets/f329f2c6-5e03-4cfe-a149-72d10da97d67" />
 
-**Total time spent : 2hours**
+**Total time spent : 4.5hours** i forgot how much :sob
