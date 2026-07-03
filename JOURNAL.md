@@ -168,5 +168,8 @@ Here are the images --
 
 <img width="456" height="694" alt="screenshot_20260703_175827" src="https://github.com/user-attachments/assets/7a86ca74-a207-4df7-b9f3-8cd17fbd7983" />
 <img width="981" height="180" alt="screenshot_20260703_175843" src="https://github.com/user-attachments/assets/f329f2c6-5e03-4cfe-a149-72d10da97d67" />
+<img width="422" height="554" alt="screenshot_20260507_081112" src="https://github.com/user-attachments/assets/c8d188ac-86a5-4ccf-9dc4-2cd794b5fc02" />
+<img width="826" height="606" alt="screenshot_20260507_081635" src="https://github.com/user-attachments/assets/44cbc80e-ba9e-4d28-b112-7a1c87e89ab4" />
+
 
 **Total time spent : 4.5hours** i forgot how much :sob
