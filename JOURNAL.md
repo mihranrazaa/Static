@@ -140,3 +140,16 @@ Here are the images..
 <img width="1668" height="696" alt="screenshot_20260506_200738" src="https://github.com/user-attachments/assets/3eb2e924-3138-47c9-a261-80abd24cd9ff" />
 
 **Total time spent : 2.5hours** Probably more but this one is in so many chunks that it is better to just give the confident minimum..
+
+# July 3 : Finally Done!!
+
+It has been a really long break but i'm finally done, i had to go through some exams and stuff and today i finally completed the routing, i was doing one-two routes or whenever i got time (i'm talking about this week only..) but it is done, i had to move some components and stuff to route some GPIOs also didn't knew what to do with gnd pins which are not connected to the ground plane.. then i got to know that i have to use vias for that too, so did that and yeah that's all :)
+
+i also made the production file and now i will complete the git page and prepare to submit!! byeee
+
+Here are the images --
+
+<img width="456" height="694" alt="screenshot_20260703_175827" src="https://github.com/user-attachments/assets/7a86ca74-a207-4df7-b9f3-8cd17fbd7983" />
+<img width="981" height="180" alt="screenshot_20260703_175843" src="https://github.com/user-attachments/assets/f329f2c6-5e03-4cfe-a149-72d10da97d67" />
+
+**Total time spent : 2hours**
