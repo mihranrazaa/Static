@@ -11,7 +11,8 @@ I will be using a guide and other info available on internet to build my own dev
 Why i want to use rp2040 as what i have seen from my current research, RP2040 is very beginner friendly chip... so i will be using this. i have started downloading footprints and symbols for the parts.. 
 
 <img width="723" height="396" alt="screenshot_20260704_161238" src="https://github.com/user-attachments/assets/1cec70b7-103e-499d-9cd3-58b95b4fe3b9" />
-** Didn't had any images of this, so added before submitting a image where i do my live logs lol
+
+**Didn't had any images of this, so added before submitting a image where i do my live logs lol**
 
 **Total time spent: 20minutes** 
 
