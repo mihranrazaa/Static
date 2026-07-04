@@ -25,4 +25,26 @@ All the files are available in Kicad folder.
 ## Production
 The gerber file is present in the production folder there is also a bom.csv which is similar to the one present below
 
+## Motivation
+
+### Why
+Building a arduino kind of development board is already cool to me, but designing one helps me improve my pcb skills too.. 
+
+## How
+You need soldering iron, goood hands all the components and you should be good. I have also added 3d file for reference. 
+
 # BOM
+
+| Item                  | Cost   |
+| --------------------- | ------ |
+| PCB                   | 40 usd |
+| total components cost | 6usd   |
+| Total approx          | 49usd  |
+
+**Please refer to the bom.csv in production for all the components**
+
+---
+
+made with <3 by [mihranrazaa](https://mihranrazaa.info/)
+
+BYEEE
