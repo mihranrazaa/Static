@@ -176,3 +176,10 @@ Here are the images --
 
 
 **Total time spent: 4.5hours**  i forgot how much :sob
+
+# July 4 : Submitting :)
+
+Everything done, the readme, setting up all the folders in git everything is done that's all, i will change some coloours and stuff laters probably after i get this approved.. 
+<img width="301" height="217" alt="image" src="https://github.com/user-attachments/assets/51a19995-c060-4d1f-92c8-7b7b2738ec01" />
+
+**Total time spent : 45minutes**
