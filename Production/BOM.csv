@@ -1,0 +1,21 @@
+Designator,Footprint,Quantity,Value,LCSC Part #,Unit Price (USD),Purchase Link,Total Price (USD)
+"C1, C10",402,2,1uF,C52923,0.002,https://www.lcsc.com/product-detail/C52923.html,0.004
+"C11, C12, C2, C3, C4, C5, C6, C7, C8, C9",402,10,0.1uF,C1525,0.002,https://www.lcsc.com/product-detail/C1525.html,0.02
+"C15, C16",603,2,10uF,C19702,0.005,https://www.lcsc.com/product-detail/C19702.html,0.01
+"C17, C18",402,2,33pF,C1554,0.002,https://www.lcsc.com/product-detail/C1554.html,0.004
+J2,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03,C2337,0.05,https://www.lcsc.com/product-detail/C2337.html,0.05
+J3,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,USB_C_Receptacle_USB2.0_14P,C165948,0.15,https://www.lcsc.com/product-detail/C165948.html,0.15
+"J6, J7",PinHeader_1x20_P2.54mm_Vertical,2,Conn_01x20,C2337,0.1,https://www.lcsc.com/product-detail/C2337.html,0.2
+"R3, R4",402,2,27,C25077,0.002,https://www.lcsc.com/product-detail/C25077.html,0.004
+R5,402,1,10K,C25744,0.002,https://www.lcsc.com/product-detail/C25744.html,0.002
+"R6, R7",402,2,1K,C11702,0.002,https://www.lcsc.com/product-detail/C11702.html,0.004
+"R8, R9",402,2,5.1K,C25905,0.002,https://www.lcsc.com/product-detail/C25905.html,0.004
+SW1,SW_TS-1088-AR02016,1,SW_Push,C318884,0.05,https://www.lcsc.com/product-detail/C318884.html,0.05
+U1,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,1,RP2040,C2040,0.95,https://www.lcsc.com/product-detail/C2040.html,0.95
+U2,SOT-23,1,MCP1700x-330xxTT,C119864,0.25,https://www.lcsc.com/product-detail/C119864.html,0.25
+U3,IC_W25Q16JVUXIQ_TR,1,W25Q16JVUXIQ_TR,C82317,0.25,https://www.lcsc.com/product-detail/C82317.html,0.25
+Y1,SMD_2MSB4SI_YXC,1,Crystal_GND24,C9002,0.1,https://www.lcsc.com/product-detail/C9002.html,0.1
+TOTAL COMPONENTS,,,,,,,2.052
+APPROX PCB FABRICATION (JLCPCB),,5 pcs,100x100mm 2-layer,,,https://jlcpcb.com/,10
+ESTIMATED SHIPPING,,,,,,,30
+GRAND TOTAL (incl. PCB & Ship),,,,,,,49.052
